@@ -1,0 +1,12 @@
+{
+	"coursesList": [
+		{
+			"title": "C++ course",
+			"description": "Basic C++ course"
+		},	
+		{
+			"title": "IT security",
+			"description": "Basic IT securities"
+		},
+	] 
+}
