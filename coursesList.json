@@ -9,13 +9,13 @@
 					"id": "8469f018-ae5e-4b45-9273-6103cf795286",
 					"title": "Variables",
 					"description": "Basic C++ course",
-					"requiredTime": "120",
+					"requiredTime": "120"
 				},
 				{
 					"id": "39e0a3a8-68ea-4653-9253-846af63d64a7",
 					"title": "Loops",
 					"description": "Basic C++ course",
-					"requiredTime": "65",
+					"requiredTime": "65"
 				}
 			]
 		},	
@@ -28,13 +28,13 @@
 					"id": "caa9717a-3ab5-4d23-a7ad-fed8ca43952d",
 					"title": "Variables",
 					"description": "Password basics",
-					"requiredTime": "120",
+					"requiredTime": "120"
 				},
 				{
 					"id": "d360d5e7-189b-418f-99f1-33df1e6d6aaa",
 					"title": "Loops",
 					"description": "SSL certificates",
-					"requiredTime": "65",
+					"requiredTime": "65"
 				}
 			]
 		}
